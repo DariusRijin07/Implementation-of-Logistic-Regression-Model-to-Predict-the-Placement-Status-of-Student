@@ -59,7 +59,7 @@ cr=classification_report(y_test,y_pred)
 print("Accuracy score:",accuracy)
 print("\nConfusion matrix:\n",confusion)
 print("\nClassification Report:\n",cr)
-
+```
 ## Output:
 ![Screenshot 2024-09-12 111506](https://github.com/user-attachments/assets/e8d9ac08-82cb-43cd-9b58-1378065bde04)
 
